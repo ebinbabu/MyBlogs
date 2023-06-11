@@ -1,4 +1,3 @@
-\
 # User Creation in Kubernetes
 
 Kubernetes provides a robust role-based access control (RBAC) system that allows fine-grained control over user permissions within a cluster. In this blog post, we will walk through the steps to create a user in Kubernetes and grant them specific access using RBAC.
